@@ -1,0 +1,28 @@
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\TEST MongoDB.exe
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\TEST MongoDB.deps.json
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\TEST MongoDB.runtimeconfig.json
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\TEST MongoDB.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\TEST MongoDB.pdb
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.csproj.AssemblyReference.cache
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.AssemblyInfoInputs.cache
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.AssemblyInfo.cs
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\refint\TEST MongoDB.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.pdb
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.genruntimeconfig.cache
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\ref\TEST MongoDB.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\DnsClient.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\Snappier.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\adamt\OneDrive\Dokument\Databas\TEST MongoDB\TEST MongoDB\obj\Debug\net6.0\TEST MongoDB.csproj.CopyComplete
